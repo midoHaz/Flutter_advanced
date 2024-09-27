@@ -1,8 +1,8 @@
-# advanced_sessions
+# Flutter Advanced
 
-A new Flutter project.
+A new Flutter project for applying the most powerful techniques in flutter.
 
-## Getting Started
+## 🎨 System Design
 
 This project is a starting point for a Flutter application.
 
